@@ -1,0 +1,30 @@
+.titleHomeContent{
+    font-size: 1rem;
+    background-color: rgb(21, 72, 119);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 100vh;  
+    text-align: center;
+}
+.THome{
+    font-size: 3rem;
+    margin-top: 35px;
+    padding-top: 35px;
+}
+.txtHome{
+    display: inline-flex;
+    margin-top: 35px;
+    width: 400px;
+
+}
+
+img{
+    display: inline-flex;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    padding-bottom: 200px;
+    width: 700px;
+    height: 600px;
+}

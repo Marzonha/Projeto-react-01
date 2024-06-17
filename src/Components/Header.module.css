@@ -1,0 +1,21 @@
+.header{
+    background: linear-gradient(transparent,rgb(3, 36, 29) );
+    text-align: center;
+    padding: 17px;
+    margin-bottom: 30px;
+    color: rgb(92, 80, 80);
+    font-size: 2em;
+    font-weight: 600;
+    border-radius: 100px;
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    
+}

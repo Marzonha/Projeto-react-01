@@ -1,0 +1,31 @@
+.titleMissionContent{
+    font-size: 1rem;
+    background-color: rgb(21, 72, 119);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 130vh;  
+    text-align: center;
+}
+.TMission{
+    font-size: 3rem;
+    margin-top: 35px;
+    padding-top: 35px;
+}
+.pMission{
+    display: inline-flex;
+    margin-top: 35px;
+    width: 400px;
+
+}
+
+.Mimg{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 200px;
+    width: 700px;
+    height: 600px;
+}
