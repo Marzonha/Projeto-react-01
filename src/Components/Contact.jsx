@@ -10,6 +10,7 @@ import {
     Radio,
     Button,
   } from "@chakra-ui/react";
+
   
   export  function Contact() {
     return (
@@ -34,7 +35,7 @@ import {
           >
             <FormControl display='flex' flexDir='column' gap='60' mt={25}>
   
-              <HStack spacing='50'>
+              <HStack spacing='5'>
                 <Box w='100%'>
                   <FormLabel>Nome Completo</FormLabel>
                   <Input id='nome' placeholder='Nome Completo' />
@@ -45,7 +46,7 @@ import {
                 </Box>            
               </HStack>
   
-              <HStack spacing='50'>
+              <HStack spacing='5'>
                 <Box w='100%'>
                   <FormLabel>Data Nascimento</FormLabel>
                   <Input id='nasc' placeholder='Data de Nascimento' />
@@ -56,7 +57,7 @@ import {
                 </Box>
               </HStack>
   
-              <HStack spacing='50'>
+              <HStack spacing='5'>
                 <Box w='100%'>
                   <FormLabel>Celular</FormLabel>
                   <Input id='cel' type="number" placeholder='Celular' />
@@ -67,7 +68,7 @@ import {
                 </Box>
               </HStack>
   
-              <HStack spacing='50'>
+              <HStack spacing='5'>
                 <Box w='100%'>
                   <FormLabel>Endereço</FormLabel>
                   <Input id='endereco' placeholder='Endereço' />
@@ -78,7 +79,7 @@ import {
                 </Box>
               </HStack>
   
-              <HStack spacing='50'>
+              <HStack spacing='5'>
                 <Box w='100%'>
                   <FormLabel>Sexo</FormLabel>
                   <RadioGroup>
