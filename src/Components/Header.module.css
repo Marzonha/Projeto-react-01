@@ -1,24 +1,28 @@
-.header{   
-    display: inline-flex;
-
-    position: fixed;
+.header{ 
+    position: fixed; 
+    display: flex;
+    justify-content: center;
     
+    
+   
 }
-
+.Ptxt{
+    margin-top: 100px;
+}
 .menu{
+    position: relative;
+    display: flex;
+    gap:200px;
     color: rgb(3, 158, 230);
     font-size: 2em;
     font-weight: 600;
     list-style: none;
-    background: linear-gradient(transparent,rgb(3, 36, 29) );
-
-
-    
-    
+    background: linear-gradient(transparent, black);
+    border-radius: 20px;
+    padding: 10px;
 }
 
 a{
     text-decoration: none;
     
 }
-
