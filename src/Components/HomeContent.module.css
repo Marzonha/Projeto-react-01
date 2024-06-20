@@ -13,8 +13,7 @@
     /* Fim do background de Vidro */
     color: rgb(255, 255, 255);
     font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    height: 100vh;
-
+    height: 130vh;
     text-align: center;
 }
 .THome{
@@ -30,7 +29,7 @@
 
 }
 
-img{
+.Homeimg{
     display: inline-flex;
     margin-top: 90px;
    margin-bottom: 150px;

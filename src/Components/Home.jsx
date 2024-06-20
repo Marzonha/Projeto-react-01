@@ -1,5 +1,4 @@
 import {HomeContent} from './HomeContent';
-
  
 function Home(props) {
     return (

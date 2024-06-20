@@ -31,7 +31,7 @@ function App() {
 
   <Route path="/" element={<Home 
    nomePagina='Pagina Inicial'
-   paginaPrincipal='Detalhes da Pagina Inicial'      
+   paginaPrincipal='Detalhes da Pagina Inicial'   
    />} />
 
   <Route path="/Mission" element={<Mission 
